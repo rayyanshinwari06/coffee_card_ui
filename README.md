@@ -1,16 +1,30 @@
 # coffee_card
 
-A new Flutter project.
+## Coffee Card UI – Flutter
 
-## Getting Started
+A clean and interactive Flutter UI that displays a user’s coffee strength and sugar preference with custom visuals. This project demonstrates basic state management, custom widgets, and asset integration in Flutter.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Toggle between 0–5 levels of coffee **strength** and **sugar**
+- Interactive "+" buttons to increase levels
+- Visual representation with coffee bean and sugar cube icons
+- Custom reusable widgets (`StyledButton`, `StyledBodyText`)
+- Full image background with modern card-style UI
+
+---
+
+## Built With
+
+- **Flutter**
+- **Dart**
+- Material Design
+- Stateful Widgets
+
+---
+
+
+
